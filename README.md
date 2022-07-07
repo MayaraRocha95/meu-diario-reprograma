@@ -1,7 +1,13 @@
 # Meu Diario na Reprograma
 Meu primeiro projeto com ReactJS do zero com direito a componetização e uso de props.
 
+
 [Link do Projeto](https://meu-diario-na-reprograma.netlify.app/)
+
+![meudiario](https://user-images.githubusercontent.com/98711190/177662332-d60b3419-2acd-46bb-9fb2-6b878a19ead0.gif)
+
+
+
 
 ##  Descrição do projeto
 Este projeto tem como objetivo fazer um diário sobre meus aprendizados na reprograma, nele tem apresentação sobre quem eu sou e sobre meus aprendizados como GIT, HTML, CSS e JavaScript.
