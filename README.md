@@ -5,7 +5,7 @@ Meu primeiro projeto com ReactJS do zero com direito a componetização e uso de
 [Link do Projeto](https://meu-diario-na-reprograma.netlify.app/)
 
 
-![meudiario](https://user-images.githubusercontent.com/98711190/178160728-fe054276-ff26-405e-a2a4-2329a409d5ce.gif)
+![meudiario](https://user-images.githubusercontent.com/98711190/178161970-3b64239e-4f91-454d-97de-6e75fab3da2a.gif)
 
 
 
